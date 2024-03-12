@@ -17,7 +17,8 @@ on:
 jobs:
   devcard:
     runs-on: ubuntu-latest
-    permissions: write
+    permissions:
+      contents: write
     steps:
       - name: devcard
         uses: dailydotdev/action-devcard@3.0.0
