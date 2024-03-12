@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/tingyuliu"><img src="https://api.daily.dev/devcards/v2/Rk21Yubp3YQKqzj4naAA8.png?type=default&r=p2g" width="356" alt="Tiffany Liu's Dev Card"/></a> 
-
+<a href="https://app.daily.dev/tingyuliu"><img src="./devcard.png" width="356" alt="Tiffany's Dev Card"/></a>
 <!--
 **tinyuliu/tinyuliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
