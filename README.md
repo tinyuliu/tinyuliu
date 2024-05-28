@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Tingyu. I'm passionate about coding, eager to learn new technologies and love a good challenge. 💻 I believe in the power of technology to change the world, and I'm constantly striving to grow and improve to make that belief a reality. Let's connect and explore, learn, and create together! 🚀
 
 <a href="https://app.daily.dev/tingyuliu"><img src="./devcard.png" width="356" alt="Tiffany's Dev Card"/></a>
 <!--
